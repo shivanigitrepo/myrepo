@@ -1,0 +1,12 @@
+body{
+    /* Set a gradient background from purple to teal*/
+    background: linear-gradient(to right, #6a3093,#a044ff, #58c041,#41c0c0);
+    font-family: Arial, ans-serif;
+    color: white;
+    margin: 0;
+    padding:  100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000;
+}
